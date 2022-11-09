@@ -1,11 +1,11 @@
-## Rodrigo Villar Valença
+# Rodrigo Villar Valença
 
 
 
  Estudante de Desenvolvimento Web Full Stack na Trybe.
  
  
- # Skills:
+ ## Skills:
  
  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
