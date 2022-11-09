@@ -55,7 +55,7 @@
  #
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodVV&theme=github_dark&show_icons=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodVV&theme=github_dark&show_icons=true)
  
  
  
