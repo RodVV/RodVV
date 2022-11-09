@@ -1,7 +1,7 @@
 ### Hi there 👋
-Rodrigo Villar Valença
+## Rodrigo Villar Valença
 
-## Estudante de Desenvolvimento Web Full Stack na Trybe.
+ Estudante de Desenvolvimento Web Full Stack na Trybe.
 
 
 
