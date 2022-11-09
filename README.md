@@ -3,6 +3,11 @@
 
 
  Estudante de Desenvolvimento Web Full Stack na Trybe.
+ 
+ Linguagens:
+ ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+ 
+ 
 
 
 
