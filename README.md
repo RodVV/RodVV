@@ -1,4 +1,9 @@
 ### Hi there 👋
+Rodrigo Villar Valença
+
+## Estudante de Desenvolvimento Web Full Stack na Trybe.
+
+
 
 <!--
 **RodVV/RodVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
