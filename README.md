@@ -6,7 +6,7 @@
  
  ### Contato: 
  
- <a href="https://www.linkedin.com/in/rodrigo-villar-valen%C3%A7a" target="blank">
+ <a href="https://www.linkedin.com/in/rodrigo-villar-valenca/" target="blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
   <a href="mailto:rodrigovillarvalenca@gmail.com" target="blank">
