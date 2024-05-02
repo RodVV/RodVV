@@ -44,7 +44,6 @@
  ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![image](	https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
  ![image](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
- ![image](https://camo.githubusercontent.com/75aae47c314f4e0e3c2729c983bbc8bd0f3e6e2728d71936ab1aa3c0251929bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54657374696e674c6962726172792d2532334533333333323f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d7768697465)
  
  ### Ferramentas: 
  
