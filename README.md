@@ -2,7 +2,7 @@
 
 
 
- Estudante de Desenvolvimento Web Full Stack na Trybe.
+ Sou um desenvolvedor com experiência tanto no front-end quanto no back-end, especializado em React, JavaScript e Python
  
  ### Contato: 
  
